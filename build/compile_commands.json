@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/karchkov@unn.global/Projects/classes/build",
+  "command": "/usr/bin/g++-12 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/karchkov@unn.global/Projects/classes/main.cpp",
+  "file": "/home/karchkov@unn.global/Projects/classes/main.cpp"
+},
+{
+  "directory": "/home/karchkov@unn.global/Projects/classes/build",
+  "command": "/usr/bin/g++-12 -g -o CMakeFiles/main.dir/Fraction.cpp.o -c /home/karchkov@unn.global/Projects/classes/Fraction.cpp",
+  "file": "/home/karchkov@unn.global/Projects/classes/Fraction.cpp"
+},
+{
+  "directory": "/home/karchkov@unn.global/Projects/classes/build",
+  "command": "/usr/bin/g++-12 -g -o CMakeFiles/main.dir/Complex.cpp.o -c /home/karchkov@unn.global/Projects/classes/Complex.cpp",
+  "file": "/home/karchkov@unn.global/Projects/classes/Complex.cpp"
+}
+]
