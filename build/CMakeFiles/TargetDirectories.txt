@@ -1,3 +1,0 @@
-/home/karchkov@unn.global/Projects/classes/build/CMakeFiles/main.dir
-/home/karchkov@unn.global/Projects/classes/build/CMakeFiles/edit_cache.dir
-/home/karchkov@unn.global/Projects/classes/build/CMakeFiles/rebuild_cache.dir
